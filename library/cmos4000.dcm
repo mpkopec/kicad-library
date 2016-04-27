@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 06/09/2012 18:10:13
+EESchema-DOCLIB  Version 2.0
 #
 $CMP 14528
 D Monostable
@@ -187,6 +187,12 @@ $ENDCMP
 $CMP 4538
 D Monostable
 K CMOS
+$ENDCMP
+#
+$CMP SN74LVC1G332
+D 3-input OR Gate
+K CMOS OR3
+F http://www.ti.com/lit/ds/symlink/sn74lvc1g332.pdf
 $ENDCMP
 #
 #End Doc Library
