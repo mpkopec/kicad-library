@@ -435,6 +435,11 @@ $CMP MAX1274
 D 1.8Msps, Single-Supply, Low-Power, True-Differential, 12-Bit ADCs
 K 12bit ADC 1CH diff differential
 F https://datasheets.maximintegrated.com/en/ds/MAX1274-MAX1275.pdf
+#
+$CMP MAX5139
+D Low-Power, Single, 12-Bit, Buffered Voltage-Output DACs
+K 12bit DAC 1CH
+F https://datasheets.maximintegrated.com/en/ds/MAX5138-MAX5139.pdf
 $ENDCMP
 #
 $CMP MCP3002
